@@ -1,1 +1,6 @@
+! Title: Substack Blocklist
+! Description: Hide Substack blogs
+! Version: 2026.1.6
+! Homepage: https://github.com/adamek760/blocklists
+
 0.0.0.0 substack.com
